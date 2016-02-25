@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<Scenarios>
+	<Scenario ID = "0">
+		<Authors>
+			<Author ID = "0" Name = "Erdos"/>
+			<Author ID = "1" Name = "Arent"/>
+			<Author ID = "2" Name = "Boguslawowicz"/>
+			<Author ID = "3" Name = "Cichocka"/>
+			<Author ID = "4" Name = "Dobrosz"/>
+			<Author ID = "5" Name = "Filipczyk"/>
+			<Author ID = "6" Name = "Grabarczyk"/>
+			<Author ID = "7" Name = "Hozowski"/>
+			<Author ID = "8" Name = "Irminski"/>
+			<Author ID = "9" Name = "Jakubczyk"/>
+		</Authors>
+		
+		<Publications>
+			<Publication>
+				<Author ID = "0" Name = "Erdos"/>
+				<Author ID = "1" Name = "Arent"/>
+				<Author ID = "2" Name = "Boguslawowicz"/>
+			</Publication>
+			
+			<Publication>
+				<Author ID = "1" Name = "Arent"/>
+				<Author ID = "3" Name = "Cichocka"/>
+			</Publication>
+			
+			<Publication>
+				<Author ID = "1" Name = "Erdos"/>
+				<Author ID = "5" Name = "Filipczyk"/>
+			</Publication>
+			
+			<Publication>
+				<Author ID = "4" Name = "Dobrosz"/>
+				<Author ID = "5" Name = "Filipczyk"/>
+			</Publication>
+			
+			<Publication>
+				<Author ID = "4" Name = "Dobrosz"/>
+				<Author ID = "9" Name = "Jakubczyk"/>
+			</Publication>
+			
+			<Publication>
+				<Author ID = "8" Name = "Irminski"/>
+				<Author ID = "9" Name = "Jakubczyk"/>
+			</Publication>
+			
+			<Publication>
+				<Author ID = "6" Name = "Grabarczyk"/>
+				<Author ID = "5" Name = "Filipczyk"/>
+			</Publication>				
+			
+			<Publication>
+				<Author ID = "6" Name = "Grabarczyk"/>
+				<Author ID = "7" Name = "Hozowski"/>
+				<Author ID = "8" Name = "Irminski"/>
+			</Publication>
+																	
+		</Publications>
+	</Scenario>
+	<Scenario ID = "1">
+		<Authors>
+			<Author ID = "0" Name = "Erdos"/>
+			<Author ID = "1" Name = "Arent"/>
+			<Author ID = "2" Name = "Boguslawowicz"/>
+			<Author ID = "3" Name = "Cichocka"/>
+			<Author ID = "4" Name = "Dobrosz"/>
+		</Authors>
+		
+		<Publications>
+			<Publication>
+				<Author ID = "0" Name = "Erdos"/>
+				<Author ID = "4" Name = "Dobrosz"/>
+			</Publication>
+			
+			<Publication>
+				<Author ID = "3" Name = "Cichocka"/>
+				<Author ID = "4" Name = "Dobrosz"/>
+			</Publication>
+			
+			<Publication>
+				<Author ID = "2" Name = "Boguslawowicz"/>
+				<Author ID = "3" Name = "Cichocka"/>
+			</Publication>
+			
+			<Publication>
+				<Author ID = "1" Name = "Arent"/>
+				<Author ID = "2" Name = "Boguslawowicz"/>
+			</Publication>
+		</Publications>	
+	</Scenario>
+	<Scenario ID = "2">
+		<Authors>
+			<Author ID = "0" Name = "Erdos"/>
+			<Author ID = "1" Name = "Arent"/>
+			<Author ID = "2" Name = "Boguslawowicz"/>
+			<Author ID = "3" Name = "Cichocka"/>
+			<Author ID = "4" Name = "Dobrosz"/>
+		</Authors>
+		
+		<Publications>
+			<Publication>
+				<Author ID = "0" Name = "Erdos"/>
+				<Author ID = "1" Name = "Arent"/>
+				<Author ID = "2" Name = "Boguslawowicz"/>
+				<Author ID = "3" Name = "Cichocka"/>
+				<Author ID = "4" Name = "Dobrosz"/>
+			</Publication>
+
+		</Publications>	
+	</Scenario>		
+</Scenarios>
